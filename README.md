@@ -17,4 +17,5 @@
 
 ### Instructions:
 
-> ©The Wolf Pack
+> **©The Wolf Pack**
+> Hungry Wolves
