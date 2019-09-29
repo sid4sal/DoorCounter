@@ -3,7 +3,7 @@
  
 
 
-ELECTRICAL COMPONENTS USED:
+#### ELECTRICAL COMPONENTS USED:
 ⦁	Ultrasonic sensor HC- SR04 (x2)
 ⦁	Arduino Uno R3
 ⦁	16X2 LCD Display JHD 162A
