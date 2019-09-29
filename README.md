@@ -1,7 +1,7 @@
-# <b>ARDUINO CONTROLLED VISITOR COUNTER USING ULTRASONIC SENSOR  (ACVC)      </b>                                                      
+# <b>ARDUINO CONTROLLED VISITOR COUNTER USING ULTRASONIC SENSOR  (ACVC) </b>                                                      
  
+> #### Link to live count of people in Tinkerers' Lab IITB
  
-
 
 #### ELECTRICAL COMPONENTS USED:
 *	Ultrasonic sensor HC- SR04 (x2)
