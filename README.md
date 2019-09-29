@@ -15,7 +15,7 @@
 
 
 ### Circuit Connections:
-
+![Image of LCD Cirduit](https://github.com/siddheshpradeepsali/images/blob/master/lcd_diagram.png)
 
 ### Instructions:
 
