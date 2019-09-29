@@ -18,6 +18,6 @@
 ### Instructions:
 
 1. Connect the circuit as shown in the diagram.
-1. Upload codes form ['final code'](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code) folder to [Arduino Uno](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code) and [NodeMCU](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code).
+1. Upload codes form ['final code'](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code) folder to [Arduino Uno](https://github.com/siddheshpradeepsali/DoorCounter/blob/master/Final%20Code/arduino_final/arduino_final.ino) and [NodeMCU](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code/nodemcu_final/).
 
 > **©The Wolf Pack**
