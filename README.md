@@ -25,20 +25,28 @@ Ultrasonic Sensors:-
 
 Ports on Ultrasonic Sensors | Ports on Arduino Uno
 ------------ | -------------
-trig 1 | a
-echo 1 | a
-trig 2 | a
-echo 2 | a
+trig 1 | 9
+echo 1 | 8
+trig 2 | 12
+echo 2 | 10
 
 
 LCD Display:-
 
 Ports on LCD Display | Ports on Arduino Uno
 ------------ | -------------
-D7 | a
-D6 | a
-D5 | a
-D4 | a
+D7 | 4
+D6 | 5
+D5 | 6
+D4 | 7
+led+ | +5 through 10k resistor
+led- | gnd
+vcc | +5
+gnd | gnd
+en | 11
+rw | gnd
+rs | 13
+
 
 ### Instructions:
 
