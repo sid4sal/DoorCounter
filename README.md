@@ -1,11 +1,6 @@
-ARDUINO CONTROLLED VISITOR COUNTER USING ULTRASONIC SENSOR  (ACVC)                                                            
+<b>ARDUINO CONTROLLED VISITOR COUNTER USING ULTRASONIC SENSOR  (ACVC)      </b>                                                      
  
-Team Name- The Wolf Pack
-Team Members- 1)Siddhesh Sali 2)Yash Bhavsar
-              3)Vinit Awale    4)Varun Ginde
-
-
-
+ 
 PROJECT DESCRIPTION:
  
 
