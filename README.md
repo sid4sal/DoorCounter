@@ -3,7 +3,7 @@
 
 # <b>ARDUINO CONTROLLED VISITOR COUNTER USING ULTRASONIC SENSOR  (ACVC) </b>                                                      
  
- 
+-A device to count number of people entering and leaving a room and upload the count to internet.
 
 #### ELECTRICAL COMPONENTS USED:
 *	Ultrasonic sensor HC- SR04 (x2)
