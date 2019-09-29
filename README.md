@@ -19,6 +19,6 @@
 
 1. Connect the circuit as shown in the diagram.
 1. Upload codes form ['final code'](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code) folder to [Arduino Uno](https://github.com/siddheshpradeepsali/DoorCounter/blob/master/Final%20Code/arduino_final/arduino_final.ino) and [NodeMCU](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code/nodemcu_final/).
-1. In case of NodeMCU you can choose whether to save readings to [Google Script](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code/nodemcu_final/Google Script Upload/) or [Adafruit.io](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code/nodemcu_final/Adafruit IO Upload/)
+1. In case of NodeMCU you can choose whether to save readings to [Google Script](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code/nodemcu_final/Google%20Script%20Upload/) or [Adafruit.io](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code/nodemcu_final/Adafruit%20IO%20Upload/)
 
 > **©The Wolf Pack**
