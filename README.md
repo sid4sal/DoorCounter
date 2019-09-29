@@ -18,6 +18,6 @@
 ### Instructions:
 
 1. Connect the circuit as shown in the diagram.
-1. Upload codes form ['final code'](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final20%Code/) folder
+1. Upload codes form ['final code'](https://github.com/siddheshpradeepsali/DoorCounter/tree/master/Final%20Code) folder
 
 > **©The Wolf Pack**
