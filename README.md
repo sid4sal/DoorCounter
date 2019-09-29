@@ -21,8 +21,24 @@
 
 
 ### Circuit Connections Chart:
+Ultrasonic Sensors:-
+
+Ports on Ultrasonic Sensors | Ports on Arduino Uno
+------------ | -------------
+trig 1 | a
+echo 1 | a
+trig 2 | a
+echo 2 | a
 
 
+LCD Display:-
+
+Ports on LCD Display | Ports on Arduino Uno
+------------ | -------------
+D7 | a
+D6 | a
+D5 | a
+D4 | a
 
 ### Instructions:
 
