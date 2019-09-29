@@ -14,8 +14,14 @@
 
 
 
-### Circuit Connections:
+### Circuit Diagrams:
 ![Image of LCD Cirduit](https://github.com/siddheshpradeepsali/images/blob/master/lcd_diagram.png)
+
+
+
+### Circuit Connections Chart:
+
+
 
 ### Instructions:
 
