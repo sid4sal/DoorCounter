@@ -15,6 +15,7 @@
 
 
 ### Circuit Diagrams:
+![Image of Ultrasonic Cirduit](https://github.com/siddheshpradeepsali/images/blob/master/ultrasonic_diagram.png)
 ![Image of LCD Cirduit](https://github.com/siddheshpradeepsali/images/blob/master/lcd_diagram.png)
 
 
