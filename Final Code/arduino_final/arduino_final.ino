@@ -11,12 +11,12 @@ SoftwareSerial s(2,3);//rx,tx
 
 #include <LiquidCrystal.h>
 /*  The circuit:
- * LCD RS pin to digital pin 12
+ * LCD RS pin to digital pin 13
  * LCD Enable pin to digital pin 11
- * LCD D4 pin to digital pin 5
- * LCD D5 pin to digital pin 4
- * LCD D6 pin to digital pin 3
- * LCD D7 pin to digital pin 2
+ * LCD D4 pin to digital pin 7
+ * LCD D5 pin to digital pin 6
+ * LCD D6 pin to digital pin 5
+ * LCD D7 pin to digital pin 4
  * LCD R/W pin to ground
  * LCD VSS pin to ground
  * LCD VCC pin to 5V
