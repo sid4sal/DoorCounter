@@ -7,5 +7,8 @@
 *	Ultrasonic sensor HC- SR04 (x2)
 *	Arduino Uno R3
 *	16X2 LCD Display JHD 162A
-*	MCU Node (Only used to upload the count on internet)
+*	NodeMCU (Only used to upload the count on internet)
 *	DC Adapter for power supply
+
+
+#### Instructions:
