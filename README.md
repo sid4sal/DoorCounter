@@ -1,7 +1,5 @@
-<b>ARDUINO CONTROLLED VISITOR COUNTER USING ULTRASONIC SENSOR  (ACVC)      </b>                                                      
+# <b>ARDUINO CONTROLLED VISITOR COUNTER USING ULTRASONIC SENSOR  (ACVC)      </b>                                                      
  
- 
-PROJECT DESCRIPTION:
  
 
 
