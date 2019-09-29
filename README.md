@@ -48,6 +48,16 @@ rw | gnd
 rs | 13
 
 
+NodeMCU:-
+
+Ports on NodeMCU | Ports on Arduino Uno
+------------ | -------------
+rx | 3
+tx | 2
+Vin | +5v
+gnd | gnd
+
+
 ### Instructions:
 
 1. Connect the circuit as shown in the diagram.
