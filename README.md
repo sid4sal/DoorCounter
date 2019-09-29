@@ -39,9 +39,9 @@ D7 | 4
 D6 | 5
 D5 | 6
 D4 | 7
-led+ | +5 through 10k resistor
+led+ | +5v through 10k resistor
 led- | gnd
-vcc | +5
+vcc | +5v
 gnd | gnd
 en | 11
 rw | gnd
