@@ -24,6 +24,6 @@
    1. For Adafruit.io visit [here](https://io.adafruit.com/) and make free account and just paste your username and AIO key (**NOT PASSWORD**) in the code. [[NodeMCU to Adafruit.io Tutorial](https://www.youtube.com/watch?v=Eocgx_VVGVY)]
    
 
-###### PS.:- Please read [Project Document](https://github.com/siddheshpradeepsali/DoorCounter/blob/master/For%20Tinkerers'%20Lab%20(IITB)/August%20DIY%20Project.docx) file if you want to know more about this project.
+###### PS.:- Please read [Project Document](https://github.com/siddheshpradeepsali/DoorCounter/blob/master/For%20Tinkerers'%20Lab%20(IITB)/August%20DIY%20Project.docx) file if you want to know more about this project. :grinning:
 
 > **©The Wolf Pack**
