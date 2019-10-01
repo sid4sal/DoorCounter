@@ -21,6 +21,11 @@
 [TinkerCAD Link](https://www.tinkercad.com/things/4IARz3SSZ0P) for LCD Display Circuit.
 
 
+### 3D Printed Case for enclosing the circuit:
+![image for 3d modell](https://csg.tinkercad.com/things/bOXppBe96oz/t725.png?rev=1569965935194000000&s=3e17e20e551a8fb73b1fafc441143d2f&v=1)
+
+[Here](https://www.tinkercad.com/things/bOXppBe96oz) is the link to 3D tinkercad model for 3D printer.
+
 ### Circuit Connections Chart:
 Ultrasonic Sensors:-
 
