@@ -35,18 +35,18 @@ LCD Display:-
 
 Ports on LCD Display | Ports on Arduino Uno
 ------------ | -------------
-D7 | 4
-D6 | 5
-D5 | 6
+gnd/vss | gnd
+vcc | +5v
+VEE | Potentiometer
+rs | 13
+r/w | gnd
+en | 11
 D4 | 7
+D5 | 6
+D6 | 5
+D7 | 4
 led+ | +5v through 10k resistor
 led- | gnd
-vcc | +5v
-gnd | gnd
-en | 11
-rw | gnd
-rs | 13
-
 
 NodeMCU:-
 
