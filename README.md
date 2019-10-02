@@ -1,4 +1,4 @@
-> #### [Link](https://io.adafruit.com/sidsal/feeds/vincoun) to live count of people in [Tinkerers' Lab IITB](https://www.google.com/maps/place/Tinkerers'+Laboratory/@19.1337854,72.9167784,15z/data=!4m5!3m4!1s0x0:0xd9d02f29b4617fb4!8m2!3d19.1337854!4d72.9167784)
+> ##### [Link](https://io.adafruit.com/sidsal/feeds/vincoun) to live count of people in [Tinkerers' Lab IITB](https://www.google.com/maps/place/Tinkerers'+Laboratory/@19.1337854,72.9167784,15z/data=!4m5!3m4!1s0x0:0xd9d02f29b4617fb4!8m2!3d19.1337854!4d72.9167784)
 > ##### [Link](https://www.youtube.com/playlist?list=PLCQrOwJ-Oj-2hbB4bVTjEAeX2ZR0tgUfT) to Demonstration Video.
 
 # <b>ARDUINO CONTROLLED VISITOR COUNTER USING ULTRASONIC SENSOR  (ACVC) </b>                                                      
@@ -80,6 +80,8 @@ gnd | gnd
 
 ###### PS.:- Please read [Project Document](https://github.com/siddheshpradeepsali/DoorCounter/blob/master/For%20Tinkerers'%20Lab%20(IITB)/August%20DIY%20Project.docx) file if you want to know more about this project. :grinning:
 
-> **©The Wolf Pack** 
+> **©The Wolf Pack**  
+       <img src="https://github.com/siddheshpradeepsali/images/blob/master/logo1.png">
+    
 ------------------------------------------------------------------------------------------------------------------------------------
    <img src="https://github.com/siddheshpradeepsali/images/blob/master/QR_code_Live_count.png" alt="QR Code For live count of people inside TL" width="154" height="200">          <img src="https://github.com/siddheshpradeepsali/images/blob/master/QR_Code_Github_link.png" alt="QR Code For Github Repo for this project" width="154" height="200">
