@@ -80,6 +80,6 @@ gnd | gnd
 
 ###### PS.:- Please read [Project Document](https://github.com/siddheshpradeepsali/DoorCounter/blob/master/For%20Tinkerers'%20Lab%20(IITB)/August%20DIY%20Project.docx) file if you want to know more about this project. :grinning:
 
-> **©The Wolf Pack**
-
+> **©The Wolf Pack** 
+------------------------------------------------------------------------------------------------------------------------------------
    <img src="https://github.com/siddheshpradeepsali/images/blob/master/QR_code_Live_count.png" alt="QR Code For live count of people inside TL" width="154" height="200">          <img src="https://github.com/siddheshpradeepsali/images/blob/master/QR_Code_Github_link.png" alt="QR Code For Github Repo for this project" width="154" height="200">
