@@ -6,6 +6,9 @@
 -A device to count number of people entering and leaving a room and upload the count to internet.
 
 #### ELECTRICAL COMPONENTS USED:
+
+<img src="https://github.com/siddheshpradeepsali/images/blob/master/hcsr04.png" width="128" height="70">     <img src="https://github.com/siddheshpradeepsali/images/blob/master/arduino.png" width="163" height="110">       <img src="https://github.com/siddheshpradeepsali/images/blob/master/lcd.png" width="177" height="80">     <img src="https://github.com/siddheshpradeepsali/images/blob/master/nodemcu.png" width="200" height="110">
+
 *	Ultrasonic sensor HC- SR04 (x2)
 *	Arduino Uno R3
 *	16X2 LCD Display JHD 162A
