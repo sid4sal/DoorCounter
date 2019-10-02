@@ -15,10 +15,12 @@
 
 
 ### Circuit Diagrams:
-1. Ultrasonic:- ![Image of Ultrasonic Cirduit](https://github.com/siddheshpradeepsali/images/blob/master/ultrasonic_diagram.png)
+1. Ultrasonic:- ![Image of Ultrasonic Circuit](https://github.com/siddheshpradeepsali/images/blob/master/ultrasonic_diagram.png)
 [TinkerCAD Link](https://www.tinkercad.com/things/1HRTabNvi2n) for Ultrasonic Sensors Circuit.
-1. LCD Display:- ![Image of LCD Cirduit](https://github.com/siddheshpradeepsali/images/blob/master/lcd_diagram.png) 
+1. LCD Display:- ![Image of LCD Circuit](https://github.com/siddheshpradeepsali/images/blob/master/lcd_diagram.png) 
 [TinkerCAD Link](https://www.tinkercad.com/things/4IARz3SSZ0P) for LCD Display Circuit.
+1. NodeMcu:- 
+<img src="https://github.com/siddheshpradeepsali/images/blob/master/nodemcu__arduino.png" alt="Image of nodemcu circuit" width="357" height="500">
 
 
 ### 3D Printed Case for enclosing the circuit:
