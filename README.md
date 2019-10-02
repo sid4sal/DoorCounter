@@ -27,7 +27,7 @@
 
 
 ### 3D Printed Case for enclosing the circuit:
-![image for 3d modell](https://csg.tinkercad.com/things/bOXppBe96oz/t725.png?rev=1569965935194000000&s=3e17e20e551a8fb73b1fafc441143d2f&v=1)
+![image for 3d modell](https://csg.tinkercad.com/things/bOXppBe96oz/t725.png?rev=1570002339584000000&s=3e17e20e551a8fb73b1fafc441143d2f&v=1)
 
 [Here](https://www.tinkercad.com/things/bOXppBe96oz) is the link to 3D tinkercad model for 3D printer.
 
